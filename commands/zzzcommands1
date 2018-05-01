@@ -1,0 +1,26 @@
+
+Settings.addPermissions(['permission1', 'permission2', 'permission3']); //Add command permission for 'can' method (optional)
+
+this.sendReply("/etour monopoke");
+
+
+
+exports.commands = {
+	altcommand1: 'command1', //commands can be references to other commands
+
+	function monopoke () {
+
+	say[etour]
+
+
+	}
+
+
+	command1: function (arg, by, room, cmd) { //command are functions
+		//do stuff
+	},
+	
+	command2: function (arg, by, room, cmd) {
+		//do stuff
+	}
+};
