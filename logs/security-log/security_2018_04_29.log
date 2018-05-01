@@ -1,0 +1,293 @@
+[00:18:23] Disconnected from server
+[00:18:35] Connected to server oppai.azure.lol:80 (azure)
+[00:18:36] Bot nickname has changed to: Guest 6663 [guest]
+[00:18:38] Bot nickname has changed to: DeltaEmerald Bot
+[00:18:39] Joined room: 1v1 [chat]
+[00:54:23] Disconnected from server
+[00:54:34] Connected to server oppai.azure.lol:80 (azure)
+[00:54:34] Bot nickname has changed to: Guest 6719 [guest]
+[00:54:36] Bot nickname has changed to: DeltaEmerald Bot
+[00:54:36] Joined room: 1v1 [chat]
+[01:34:23] Disconnected from server
+[01:34:34] Connected to server oppai.azure.lol:80 (azure)
+[01:34:34] Bot nickname has changed to: Guest 6805 [guest]
+[01:34:35] Bot nickname has changed to: DeltaEmerald Bot
+[01:34:36] Joined room: 1v1 [chat]
+[01:38:23] Disconnected from server
+[01:38:34] Connected to server oppai.azure.lol:80 (azure)
+[01:38:34] Bot nickname has changed to: Guest 6811 [guest]
+[01:38:36] Bot nickname has changed to: DeltaEmerald Bot
+[01:38:36] Joined room: 1v1 [chat]
+[02:02:24] Disconnected from server
+[02:02:34] Connected to server oppai.azure.lol:80 (azure)
+[02:02:34] Bot nickname has changed to: Guest 6853 [guest]
+[02:02:36] Bot nickname has changed to: DeltaEmerald Bot
+[02:02:37] Joined room: 1v1 [chat]
+[02:08:24] Disconnected from server
+[02:08:34] Connected to server oppai.azure.lol:80 (azure)
+[02:08:34] Bot nickname has changed to: Guest 6860 [guest]
+[02:08:35] Bot nickname has changed to: DeltaEmerald Bot
+[02:08:36] Joined room: 1v1 [chat]
+[02:16:24] Disconnected from server
+[02:16:34] Connected to server oppai.azure.lol:80 (azure)
+[02:16:34] Bot nickname has changed to: Guest 6868 [guest]
+[02:16:35] Bot nickname has changed to: DeltaEmerald Bot
+[02:16:36] Joined room: 1v1 [chat]
+[03:09:42] Joined room: battle-gen7challengecup1v1-37827 [battle]
+[03:09:43] MAJOR FAILED: Unexpected end of JSON input
+args: 
+kwargs: {}
+room: battle-gen7challengecup1v1-37827
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at Battle.request (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle-majors.js:15:23)
+    at Battle.exports.Battle.Battle.runMajor (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:299:12)
+    at Battle.exports.Battle.Battle.run (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:258:10)
+    at Battle.exports.Battle.Battle.add (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:235:8)
+    at Object.receive (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\index.js:72:23)
+    at Object.exports.parse (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\index.js:42:13)
+    at MyEmitter.<anonymous> (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\index.js:423:61)
+    at emitMany (events.js:147:13)
+    at MyEmitter.emit (events.js:224:7)
+[03:10:19] Left room: battle-gen7challengecup1v1-37827 [battle]
+[03:26:37] Joined room: battle-gen7challengecup1v1-37852 [battle]
+[03:26:37] MAJOR FAILED: Unexpected end of JSON input
+args: 
+kwargs: {}
+room: battle-gen7challengecup1v1-37852
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at Battle.request (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle-majors.js:15:23)
+    at Battle.exports.Battle.Battle.runMajor (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:299:12)
+    at Battle.exports.Battle.Battle.run (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:258:10)
+    at Battle.exports.Battle.Battle.add (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:235:8)
+    at Object.receive (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\index.js:72:23)
+    at Object.exports.parse (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\index.js:42:13)
+    at MyEmitter.<anonymous> (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\index.js:423:61)
+    at emitMany (events.js:147:13)
+    at MyEmitter.emit (events.js:224:7)
+[03:27:24] Left room: battle-gen7challengecup1v1-37852 [battle]
+[03:50:24] Disconnected from server
+[03:50:34] Connected to server oppai.azure.lol:80 (azure)
+[03:50:34] Bot nickname has changed to: Guest 6978 [guest]
+[03:50:35] Bot nickname has changed to: DeltaEmerald Bot
+[03:50:36] Joined room: 1v1 [chat]
+[03:59:19] Bot nickname has changed to: Guest 5880 [guest]
+[04:01:31] Connected to server oppai.azure.lol:80 (azure)
+[04:01:31] Bot nickname has changed to: Guest 6990 [guest]
+[04:01:34] Bot nickname has changed to: DeltaEmerald Bot
+[04:01:34] Joined room: 1v1 [chat]
+[04:07:31] Disconnected from server
+[04:07:42] Connected to server oppai.azure.lol:80 (azure)
+[04:07:42] Bot nickname has changed to: Guest 6994 [guest]
+[04:07:43] Bot nickname has changed to: DeltaEmerald Bot
+[04:07:43] Joined room: 1v1 [chat]
+[04:49:50] Disconnected from server
+[15:01:36] Monitor failed: Connection issue. Reconnecting...
+[15:05:23] Connected to server oppai.azure.lol:80 (azure)
+[15:05:23] Bot nickname has changed to: Guest 7579 [guest]
+[15:05:24] Bot nickname has changed to: DeltaEmerald Bot
+[15:05:25] Joined room: 1v1 [chat]
+[15:49:56] Joined room: battle-gen7challengecup1v1-38509 [battle]
+[15:49:56] MAJOR FAILED: Unexpected end of JSON input
+args: 
+kwargs: {}
+room: battle-gen7challengecup1v1-38509
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at Battle.request (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle-majors.js:15:23)
+    at Battle.exports.Battle.Battle.runMajor (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:299:12)
+    at Battle.exports.Battle.Battle.run (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:258:10)
+    at Battle.exports.Battle.Battle.add (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:235:8)
+    at Object.receive (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\index.js:72:23)
+    at Object.exports.parse (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\index.js:42:13)
+    at MyEmitter.<anonymous> (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\index.js:423:61)
+    at emitMany (events.js:147:13)
+    at MyEmitter.emit (events.js:224:7)
+[15:51:19] Left room: battle-gen7challengecup1v1-38509 [battle]
+[16:13:17] Joined room: battle-gen7challengecup1v1-38543 [battle]
+[16:13:17] MAJOR FAILED: Unexpected end of JSON input
+args: 
+kwargs: {}
+room: battle-gen7challengecup1v1-38543
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at Battle.request (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle-majors.js:15:23)
+    at Battle.exports.Battle.Battle.runMajor (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:299:12)
+    at Battle.exports.Battle.Battle.run (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:258:10)
+    at Battle.exports.Battle.Battle.add (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:235:8)
+    at Object.receive (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\index.js:72:23)
+    at Object.exports.parse (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\index.js:42:13)
+    at MyEmitter.<anonymous> (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\index.js:423:61)
+    at emitMany (events.js:147:13)
+    at MyEmitter.emit (events.js:224:7)
+[16:13:58] Left room: battle-gen7challengecup1v1-38543 [battle]
+[16:18:49] Joined room: battle-gen7challengecup1v1-38557 [battle]
+[16:18:49] MAJOR FAILED: Unexpected end of JSON input
+args: 
+kwargs: {}
+room: battle-gen7challengecup1v1-38557
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at Battle.request (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle-majors.js:15:23)
+    at Battle.exports.Battle.Battle.runMajor (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:299:12)
+    at Battle.exports.Battle.Battle.run (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:258:10)
+    at Battle.exports.Battle.Battle.add (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:235:8)
+    at Object.receive (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\index.js:72:23)
+    at Object.exports.parse (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\index.js:42:13)
+    at MyEmitter.<anonymous> (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\index.js:423:61)
+    at emitMany (events.js:147:13)
+    at MyEmitter.emit (events.js:224:7)
+[16:19:36] Left room: battle-gen7challengecup1v1-38557 [battle]
+[16:31:37] Disconnected from server
+[16:31:49] Connected to server oppai.azure.lol:80 (azure)
+[16:31:49] Bot nickname has changed to: Guest 7713 [guest]
+[16:31:52] Bot nickname has changed to: DeltaEmerald Bot
+[16:31:53] Joined room: 1v1 [chat]
+[16:39:36] Disconnected from server
+[16:39:48] Connected to server oppai.azure.lol:80 (azure)
+[16:39:48] Bot nickname has changed to: Guest 7728 [guest]
+[16:39:50] Bot nickname has changed to: DeltaEmerald Bot
+[16:39:50] Joined room: 1v1 [chat]
+[19:42:33] Disconnected from server
+[19:42:44] Connected to server oppai.azure.lol:80 (azure)
+[19:42:44] Bot nickname has changed to: Guest 8006 [guest]
+[19:42:57] Bot nickname has changed to: DeltaEmerald Bot
+[19:42:57] Joined room: 1v1 [chat]
+[20:03:23] Joined room: battle-gen7challengecup1v1-38801 [battle]
+[20:03:23] MAJOR FAILED: Unexpected end of JSON input
+args: 
+kwargs: {}
+room: battle-gen7challengecup1v1-38801
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at Battle.request (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle-majors.js:15:23)
+    at Battle.exports.Battle.Battle.runMajor (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:299:12)
+    at Battle.exports.Battle.Battle.run (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:258:10)
+    at Battle.exports.Battle.Battle.add (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:235:8)
+    at Object.receive (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\index.js:72:23)
+    at Object.exports.parse (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\index.js:42:13)
+    at MyEmitter.<anonymous> (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\index.js:423:61)
+    at emitMany (events.js:147:13)
+    at MyEmitter.emit (events.js:224:7)
+[20:03:51] Left room: battle-gen7challengecup1v1-38801 [battle]
+[20:07:35] Joined room: battle-gen7challengecup1v1-38805 [battle]
+[20:07:35] MAJOR FAILED: Unexpected end of JSON input
+args: 
+kwargs: {}
+room: battle-gen7challengecup1v1-38805
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at Battle.request (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle-majors.js:15:23)
+    at Battle.exports.Battle.Battle.runMajor (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:299:12)
+    at Battle.exports.Battle.Battle.run (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:258:10)
+    at Battle.exports.Battle.Battle.add (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:235:8)
+    at Object.receive (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\index.js:72:23)
+    at Object.exports.parse (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\index.js:42:13)
+    at MyEmitter.<anonymous> (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\index.js:423:61)
+    at emitMany (events.js:147:13)
+    at MyEmitter.emit (events.js:224:7)
+[20:08:18] Left room: battle-gen7challengecup1v1-38805 [battle]
+[20:35:39] Joined room: battle-gen7challengecup1v1-38845 [battle]
+[20:35:39] MAJOR FAILED: Unexpected end of JSON input
+args: 
+kwargs: {}
+room: battle-gen7challengecup1v1-38845
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at Battle.request (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle-majors.js:15:23)
+    at Battle.exports.Battle.Battle.runMajor (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:299:12)
+    at Battle.exports.Battle.Battle.run (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:258:10)
+    at Battle.exports.Battle.Battle.add (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:235:8)
+    at Object.receive (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\index.js:72:23)
+    at Object.exports.parse (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\index.js:42:13)
+    at MyEmitter.<anonymous> (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\index.js:423:61)
+    at emitMany (events.js:147:13)
+    at MyEmitter.emit (events.js:224:7)
+[20:44:38] Left room: battle-gen7challengecup1v1-38845 [battle]
+[20:54:51] Joined room: battle-gen7monotypechallengecup1v1-38888 [battle]
+[20:54:51] MAJOR FAILED: Unexpected end of JSON input
+args: 
+kwargs: {}
+room: battle-gen7monotypechallengecup1v1-38888
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at Battle.request (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle-majors.js:15:23)
+    at Battle.exports.Battle.Battle.runMajor (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:299:12)
+    at Battle.exports.Battle.Battle.run (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:258:10)
+    at Battle.exports.Battle.Battle.add (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:235:8)
+    at Object.receive (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\index.js:72:23)
+    at Object.exports.parse (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\index.js:42:13)
+    at MyEmitter.<anonymous> (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\index.js:423:61)
+    at emitMany (events.js:147:13)
+    at MyEmitter.emit (events.js:224:7)
+[20:56:23] Left room: battle-gen7monotypechallengecup1v1-38888 [battle]
+[21:34:28] Disconnected from server
+[21:34:39] Connected to server oppai.azure.lol:80 (azure)
+[21:34:39] Bot nickname has changed to: Guest 8208 [guest]
+[21:34:41] Bot nickname has changed to: DeltaEmerald Bot
+[21:34:42] Joined room: 1v1 [chat]
+[21:50:27] Disconnected from server
+[21:50:38] Connected to server oppai.azure.lol:80 (azure)
+[21:50:38] Bot nickname has changed to: Guest 8234 [guest]
+[21:50:40] Bot nickname has changed to: DeltaEmerald Bot
+[21:50:42] Joined room: 1v1 [chat]
+[22:07:43] Joined room: battle-gen7metronomechallengecup1v1-38977 [battle]
+[22:07:43] MAJOR FAILED: Unexpected end of JSON input
+args: 
+kwargs: {}
+room: battle-gen7metronomechallengecup1v1-38977
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at Battle.request (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle-majors.js:15:23)
+    at Battle.exports.Battle.Battle.runMajor (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:299:12)
+    at Battle.exports.Battle.Battle.run (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:258:10)
+    at Battle.exports.Battle.Battle.add (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:235:8)
+    at Object.receive (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\index.js:72:23)
+    at Object.exports.parse (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\index.js:42:13)
+    at MyEmitter.<anonymous> (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\index.js:423:61)
+    at emitMany (events.js:147:13)
+    at MyEmitter.emit (events.js:224:7)
+[22:08:02] Left room: battle-gen7metronomechallengecup1v1-38977 [battle]
+[22:45:17] Joined room: battle-gen7challengecup1v1-39023 [battle]
+[22:45:17] MAJOR FAILED: Unexpected end of JSON input
+args: 
+kwargs: {}
+room: battle-gen7challengecup1v1-39023
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at Battle.request (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle-majors.js:15:23)
+    at Battle.exports.Battle.Battle.runMajor (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:299:12)
+    at Battle.exports.Battle.Battle.run (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:258:10)
+    at Battle.exports.Battle.Battle.add (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:235:8)
+    at Object.receive (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\index.js:72:23)
+    at Object.exports.parse (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\index.js:42:13)
+    at MyEmitter.<anonymous> (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\index.js:423:61)
+    at emitMany (events.js:147:13)
+    at MyEmitter.emit (events.js:224:7)
+[22:46:00] Left room: battle-gen7challengecup1v1-39023 [battle]
+[23:04:28] Disconnected from server
+[23:04:41] Connected to server oppai.azure.lol:80 (azure)
+[23:04:41] Bot nickname has changed to: Guest 8377 [guest]
+[23:04:44] Bot nickname has changed to: DeltaEmerald Bot
+[23:04:44] Joined room: 1v1 [chat]
+[23:08:28] Disconnected from server
+[23:08:38] Connected to server oppai.azure.lol:80 (azure)
+[23:08:38] Bot nickname has changed to: Guest 8385 [guest]
+[23:08:40] Bot nickname has changed to: DeltaEmerald Bot
+[23:08:41] Joined room: 1v1 [chat]
+[23:20:28] Disconnected from server
+[23:20:38] Connected to server oppai.azure.lol:80 (azure)
+[23:20:38] Bot nickname has changed to: Guest 8412 [guest]
+[23:20:39] Bot nickname has changed to: DeltaEmerald Bot
+[23:20:40] Joined room: 1v1 [chat]
+[23:36:28] Disconnected from server
+[23:36:38] Connected to server oppai.azure.lol:80 (azure)
+[23:36:38] Bot nickname has changed to: Guest 8441 [guest]
+[23:36:40] Bot nickname has changed to: DeltaEmerald Bot
+[23:36:41] Joined room: 1v1 [chat]
+[23:42:28] Disconnected from server
+[23:42:38] Connected to server oppai.azure.lol:80 (azure)
+[23:42:38] Bot nickname has changed to: Guest 8450 [guest]
+[23:42:40] Bot nickname has changed to: DeltaEmerald Bot
+[23:42:40] Joined room: 1v1 [chat]

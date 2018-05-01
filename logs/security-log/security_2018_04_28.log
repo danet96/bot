@@ -1,0 +1,167 @@
+[00:22:35] Disconnected from server
+[00:22:45] Connected to server oppai.azure.lol:80 (azure)
+[00:22:45] Bot nickname has changed to: Guest 4882 [guest]
+[00:22:47] Bot nickname has changed to: DeltaEmerald Bot
+[00:22:48] Joined room: 1v1 [chat]
+[00:34:35] Disconnected from server
+[00:34:45] Connected to server oppai.azure.lol:80 (azure)
+[00:34:45] Bot nickname has changed to: Guest 4893 [guest]
+[00:34:51] Bot nickname has changed to: DeltaEmerald Bot
+[00:34:52] Joined room: 1v1 [chat]
+[00:53:02] Bot nickname has changed to: Guest 4492 [guest]
+[00:53:54] Connected to server oppai.azure.lol:80 (azure)
+[00:53:54] Bot nickname has changed to: Guest 4914 [guest]
+[00:53:55] Bot nickname has changed to: DeltaEmerald Bot
+[00:53:56] Joined room: 1v1 [chat]
+[00:58:53] Connected to server oppai.azure.lol:80 (azure)
+[00:58:53] Bot nickname has changed to: Guest 4924 [guest]
+[00:58:54] Bot nickname has changed to: DeltaEmerald Bot
+[00:58:54] Joined room: 1v1 [chat]
+[01:03:35] Bot nickname has changed to: danet
+[01:13:18] Joined room: battle-gen7monopoke-36592 [battle]
+[01:13:18] MAJOR FAILED: Unexpected end of JSON input
+args: 
+kwargs: {}
+room: battle-gen7monopoke-36592
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at Battle.request (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle-majors.js:15:23)
+    at Battle.exports.Battle.Battle.runMajor (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:299:12)
+    at Battle.exports.Battle.Battle.run (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:258:10)
+    at Battle.exports.Battle.Battle.add (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\battle.js:235:8)
+    at Object.receive (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\battle-ai\index.js:72:23)
+    at Object.exports.parse (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\features\battle\index.js:42:13)
+    at MyEmitter.<anonymous> (C:\Users\Daniel\Desktop\Bot\Pokemon-Showdown-Node-Bot-master\index.js:423:61)
+    at emitMany (events.js:147:13)
+    at MyEmitter.emit (events.js:224:7)
+[01:13:37] Connected to server oppai.azure.lol:80 (azure)
+[01:13:37] Bot nickname has changed to: Guest 4947 [guest]
+[01:13:38] Bot nickname has changed to: DeltaEmerald Bot
+[01:13:39] Joined room: 1v1 [chat]
+[01:13:40] Joined room: battle-gen7monopoke-36592 [battle]
+[01:15:27] Left room: battle-gen7monopoke-36592 [battle]
+[01:31:36] Disconnected from server
+[01:31:47] Connected to server oppai.azure.lol:80 (azure)
+[01:31:47] Bot nickname has changed to: Guest 4969 [guest]
+[01:31:48] Bot nickname has changed to: DeltaEmerald Bot
+[01:31:49] Joined room: 1v1 [chat]
+[01:39:36] Disconnected from server
+[01:39:47] Connected to server oppai.azure.lol:80 (azure)
+[01:39:47] Bot nickname has changed to: Guest 4974 [guest]
+[01:39:48] Bot nickname has changed to: DeltaEmerald Bot
+[01:39:49] Joined room: 1v1 [chat]
+[02:37:37] Disconnected from server
+[02:37:48] Connected to server oppai.azure.lol:80 (azure)
+[02:37:48] Bot nickname has changed to: Guest 5034 [guest]
+[02:37:49] Bot nickname has changed to: DeltaEmerald Bot
+[02:37:49] Joined room: 1v1 [chat]
+[02:45:37] Disconnected from server
+[02:45:47] Connected to server oppai.azure.lol:80 (azure)
+[02:45:47] Bot nickname has changed to: Guest 5045 [guest]
+[02:45:50] Bot nickname has changed to: DeltaEmerald Bot
+[02:45:50] Joined room: 1v1 [chat]
+[02:49:37] Disconnected from server
+[02:49:47] Connected to server oppai.azure.lol:80 (azure)
+[02:49:47] Bot nickname has changed to: Guest 5047 [guest]
+[02:49:48] Bot nickname has changed to: DeltaEmerald Bot
+[02:49:49] Joined room: 1v1 [chat]
+[02:53:37] Disconnected from server
+[02:53:47] Connected to server oppai.azure.lol:80 (azure)
+[02:53:47] Bot nickname has changed to: Guest 5051 [guest]
+[02:53:49] Bot nickname has changed to: DeltaEmerald Bot
+[02:53:49] Joined room: 1v1 [chat]
+[03:03:37] Disconnected from server
+[03:03:47] Connected to server oppai.azure.lol:80 (azure)
+[03:03:47] Bot nickname has changed to: Guest 5059 [guest]
+[03:03:48] Bot nickname has changed to: DeltaEmerald Bot
+[03:03:49] Joined room: 1v1 [chat]
+[03:27:37] Disconnected from server
+[03:27:47] Connected to server oppai.azure.lol:80 (azure)
+[03:27:47] Bot nickname has changed to: Guest 5086 [guest]
+[03:27:48] Bot nickname has changed to: DeltaEmerald Bot
+[03:27:49] Joined room: 1v1 [chat]
+[05:27:38] Disconnected from server
+[05:27:50] Connected to server oppai.azure.lol:80 (azure)
+[05:27:50] Bot nickname has changed to: Guest 5218 [guest]
+[05:27:53] Bot nickname has changed to: DeltaEmerald Bot
+[05:27:54] Joined room: 1v1 [chat]
+[05:47:37] Disconnected from server
+[05:47:48] Connected to server oppai.azure.lol:80 (azure)
+[05:47:48] Bot nickname has changed to: Guest 5236 [guest]
+[05:47:49] Bot nickname has changed to: DeltaEmerald Bot
+[05:47:50] Joined room: 1v1 [chat]
+[06:25:37] Disconnected from server
+[06:25:48] Connected to server oppai.azure.lol:80 (azure)
+[06:25:48] Bot nickname has changed to: Guest 5275 [guest]
+[06:25:49] Bot nickname has changed to: DeltaEmerald Bot
+[06:25:49] Joined room: 1v1 [chat]
+[06:39:37] Disconnected from server
+[06:39:48] Connected to server oppai.azure.lol:80 (azure)
+[06:39:48] Bot nickname has changed to: Guest 5286 [guest]
+[06:39:49] Bot nickname has changed to: DeltaEmerald Bot
+[06:39:50] Joined room: 1v1 [chat]
+[06:45:37] Disconnected from server
+[06:45:48] Connected to server oppai.azure.lol:80 (azure)
+[06:45:48] Bot nickname has changed to: Guest 5288 [guest]
+[06:45:49] Bot nickname has changed to: DeltaEmerald Bot
+[06:45:49] Joined room: 1v1 [chat]
+[17:14:56] Disconnected from server
+[17:15:07] Connected to server oppai.azure.lol:80 (azure)
+[17:15:07] Bot nickname has changed to: Guest 5880 [guest]
+[17:15:08] Bot nickname has changed to: DeltaEmerald Bot
+[17:15:09] Joined room: 1v1 [chat]
+[17:36:22] Disconnected from server
+[17:36:33] Connected to server oppai.azure.lol:80 (azure)
+[17:36:33] Bot nickname has changed to: Guest 5917 [guest]
+[17:36:36] Bot nickname has changed to: DeltaEmerald Bot
+[17:36:36] Joined room: 1v1 [chat]
+[17:44:22] Disconnected from server
+[17:44:33] Connected to server oppai.azure.lol:80 (azure)
+[17:44:33] Bot nickname has changed to: Guest 5929 [guest]
+[17:44:34] Bot nickname has changed to: DeltaEmerald Bot
+[17:44:35] Joined room: 1v1 [chat]
+[17:52:22] Disconnected from server
+[17:52:33] Connected to server oppai.azure.lol:80 (azure)
+[17:52:33] Bot nickname has changed to: Guest 5940 [guest]
+[17:52:34] Bot nickname has changed to: DeltaEmerald Bot
+[17:52:35] Joined room: 1v1 [chat]
+[17:56:22] Disconnected from server
+[17:56:33] Connected to server oppai.azure.lol:80 (azure)
+[17:56:33] Bot nickname has changed to: Guest 5946 [guest]
+[17:56:34] Bot nickname has changed to: DeltaEmerald Bot
+[17:56:34] Joined room: 1v1 [chat]
+[20:00:23] Disconnected from server
+[20:00:33] Connected to server oppai.azure.lol:80 (azure)
+[20:00:33] Bot nickname has changed to: Guest 6156 [guest]
+[20:00:34] Bot nickname has changed to: DeltaEmerald Bot
+[20:00:35] Joined room: 1v1 [chat]
+[21:14:23] Disconnected from server
+[21:14:33] Connected to server oppai.azure.lol:80 (azure)
+[21:14:33] Bot nickname has changed to: Guest 6320 [guest]
+[21:14:47] Bot nickname has changed to: DeltaEmerald Bot
+[21:14:47] Joined room: 1v1 [chat]
+[21:24:23] Disconnected from server
+[21:24:33] Connected to server oppai.azure.lol:80 (azure)
+[21:24:33] Bot nickname has changed to: Guest 6339 [guest]
+[21:24:35] Bot nickname has changed to: DeltaEmerald Bot
+[21:24:37] Joined room: 1v1 [chat]
+[21:32:23] Disconnected from server
+[21:32:33] Connected to server oppai.azure.lol:80 (azure)
+[21:32:33] Bot nickname has changed to: Guest 6352 [guest]
+[21:32:35] Bot nickname has changed to: DeltaEmerald Bot
+[21:32:35] Joined room: 1v1 [chat]
+[21:52:23] Disconnected from server
+[21:52:33] Connected to server oppai.azure.lol:80 (azure)
+[21:52:33] Bot nickname has changed to: Guest 6396 [guest]
+[21:52:35] Bot nickname has changed to: DeltaEmerald Bot
+[21:52:36] Joined room: 1v1 [chat]
+[22:08:23] Disconnected from server
+[22:08:33] Connected to server oppai.azure.lol:80 (azure)
+[22:08:33] Bot nickname has changed to: Guest 6427 [guest]
+[22:08:35] Bot nickname has changed to: DeltaEmerald Bot
+[22:08:36] Joined room: 1v1 [chat]
+[23:38:23] Disconnected from server
+[23:38:34] Connected to server oppai.azure.lol:80 (azure)
+[23:38:34] Bot nickname has changed to: Guest 6595 [guest]
+[23:38:35] Bot nickname has changed to: DeltaEmerald Bot
+[23:38:36] Joined room: 1v1 [chat]
